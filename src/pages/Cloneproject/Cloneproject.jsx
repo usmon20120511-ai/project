@@ -70,7 +70,7 @@ export default function Cloneproject() {
         elit, aliquam non erat nec, viverra lobortis dui.
       </p>
 
-      <p>ustoz 75 coin qoyib berolisizmi? fleshka omo xchiman</p>
+      <p>ustoz 75 coin qoyib berolisizmi? fleshka omoxchiman</p>
     </div>
   );
 }
